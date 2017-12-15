@@ -58,7 +58,7 @@
                   </v-card-media>
                   <v-card-title primary-title>
                     <div>
-                      <h3 class="headline mb-0">Website Design</h3>
+                      <h3 class="headline mb-0">${song.title || 'Unknown'} by ${song.artist || 'Unknown'}</h3>
                       <div class="subheading grey--text text--darken-1">Google powered website specifically designed for local business that works across all devices and loads instantly.</div>
                     </div>
                   </v-card-title>
