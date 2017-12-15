@@ -5,10 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/docker/web/public/index.html" afterPath="$PROJECT_DIR$/docker/web/public/index.html" />
       <change beforePath="$PROJECT_DIR$/docker/web/public/service-worker.js" afterPath="$PROJECT_DIR$/docker/web/public/service-worker.js" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.ab01c80c83fe69df2bc2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.ab01c80c83fe69df2bc2.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.968e9e480aba13a6ae1e.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.968e9e480aba13a6ae1e.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.75bced7f34706406b5d6.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.75bced7f34706406b5d6.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.e687c63bcc51b2ff77c2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.e687c63bcc51b2ff77c2.js.map" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -135,21 +135,6 @@
               <item name="foundation" type="462c0819:PsiDirectoryNode" />
               <item name="docker" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
