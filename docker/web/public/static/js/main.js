@@ -22,22 +22,8 @@
         } else {
           html = songs.map(function(song) {
             return `
-<section>
-      <v-layout
-        column
-        wrap
-        class="my-5"
-        align-center
-      >
-
-        <v-flex xs12>
-          <v-container grid-list-xl>
-            <v-layout row wrap align-center>
-
-              <v-flex xs12 md4>
-                <v-card>
-
-                  <v-card-media src="/static/img/local-business.jpg" height="200px">
+    <article>
+               <v-card-media src="/static/img/local-business.jpg" height="200px">
                   </v-card-media>
                   <v-card-title primary-title>
                     <div>
@@ -48,14 +34,7 @@
                   <v-card-actions>
                     <v-btn flat color="teal">RATING: ${song.rating}</v-btn>
                     <router-link to="/localwebsitedesign/"><v-btn flat color="teal">Explore</v-btn></router-link>
-                  </v-card-actions>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
-        </v-flex>
-      </v-layout>
-    </section>
+    </article>
                         `;
           }).join();
         }
