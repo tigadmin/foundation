@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="285f0683-dfc5-41b3-9131-7d1e511c4470" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/index.html" afterPath="$PROJECT_DIR$/docker/web/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/service-worker.js" afterPath="$PROJECT_DIR$/docker/web/public/service-worker.js" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.6da8a11061a5dd916833.js.map" afterPath="$PROJECT_DIR$/docker/web/public/static/js/manifest.6da8a11061a5dd916833.js.map" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/docker/web/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="2714" lean-forward="false" selection-start-line="0" selection-start-column="2714" selection-end-line="0" selection-end-column="2714" />
+              <caret line="0" column="2585" lean-forward="false" selection-start-line="0" selection-start-column="2585" selection-end-line="0" selection-end-column="2585" />
               <folding />
             </state>
           </provider>
@@ -205,7 +202,7 @@
     <entry file="file://$PROJECT_DIR$/docker/web/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2714" lean-forward="false" selection-start-line="0" selection-start-column="2714" selection-end-line="0" selection-end-column="2714" />
+          <caret line="0" column="2585" lean-forward="false" selection-start-line="0" selection-start-column="2585" selection-end-line="0" selection-end-column="2585" />
           <folding />
         </state>
       </provider>
