@@ -5,10 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/docker/web/public/index.html" afterPath="$PROJECT_DIR$/docker/web/public/index.html" />
       <change beforePath="$PROJECT_DIR$/docker/web/public/service-worker.js" afterPath="$PROJECT_DIR$/docker/web/public/service-worker.js" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.75bced7f34706406b5d6.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.75bced7f34706406b5d6.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.e687c63bcc51b2ff77c2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.e687c63bcc51b2ff77c2.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.e14ba4bbd65ef977180d.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.e14ba4bbd65ef977180d.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.27eeb945b53fc285e1ac.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.27eeb945b53fc285e1ac.js.map" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
