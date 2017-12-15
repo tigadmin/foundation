@@ -22,31 +22,40 @@
         } else {
           html = songs.map(function(song) {
             return `
-<div class="layout row wrap align-center" layout="row">
-<div class="card__text">
-<div class="layout">
-<div class="flex xs6 md12">
-<div class="card" data-ripple="false" style="height: auto;">
+<section>
+      <v-layout
+        column
+        wrap
+        class="my-5"
+        align-center
+      >
 
-<div class="card__media" style="height: 200px;">
-<div class="card__media__background" style="background: url(&quot;/static/img/local-business-5.jpg&quot;) center center / cover no-repeat;"></div>
-</div>
+        <v-flex xs12>
+          <v-container grid-list-xl>
+            <v-layout row wrap align-center>
 
-<div class="card__title card__title--primary"><h3 class="headline mb-0">${song.title || 'Unknown'} by ${song.artist || 'Unknown'}</div>
-<div class="card__title card__title--primary">${song.opinion || 'none'}</div>
+              <v-flex xs12 md4>
+                <v-card>
 
-<div class="card__actions">
-
-<button type="button" class="btn btn--flat orange--text" data-ripple="true">
-<div class="btn__content">Rating: ${song.rating}</div></button>
-
-<button type="button" class="btn btn--flat orange--text" data-ripple="true">
-<div class="btn__content">Explore</div></button>
-
-</div>
-
-</div></div></div></div>
-</div>
+                  <v-card-media src="/static/img/local-business.jpg" height="200px">
+                  </v-card-media>
+                  <v-card-title primary-title>
+                    <div>
+                      <h3 class="headline mb-0">${song.title || 'Unknown'} by ${song.artist || 'Unknown'}</h3>
+                      <div class="subheading grey--text text--darken-1">${song.opinion || 'none'}</div>
+                    </div>
+                  </v-card-title>
+                  <v-card-actions>
+                    <v-btn flat color="teal">RATING: ${song.rating}</v-btn>
+                    <router-link to="/localwebsitedesign/"><v-btn flat color="teal">Explore</v-btn></router-link>
+                  </v-card-actions>
+                </v-card>
+              </v-flex>
+            </v-layout>
+          </v-container>
+        </v-flex>
+      </v-layout>
+    </section>
                         `;
           }).join();
         }
