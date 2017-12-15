@@ -23,6 +23,8 @@
                     html = songs.map(function(song) {
                         return `
                             <article>
+                              <v-container grid-list-md text-xs-center>
+    <v-layout row wrap>
 <div class="layout row wrap align-center" layout="row">
 <div class="card__text">
 <div class="layout">
@@ -48,6 +50,8 @@
 
 </div></div></div></div>
 </div>
+</v-layout>
+</v-container>
                             </article>
                         `;
                     }).join();
