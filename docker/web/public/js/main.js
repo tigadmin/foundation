@@ -24,7 +24,7 @@
                         return `
                             <article>
                               <v-container grid-list-md text-xs-center>
-    <v-layout row wrap>
+    <v-layout flex row wrap>
 <div class="layout row wrap align-center" layout="row">
 <div class="card__text">
 <div class="layout">
