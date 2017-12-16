@@ -1,0 +1,26 @@
+Go over new shipworks - all order must be entered through website.
+
+Email must be going by today.
+
+Go over CRM - portions
+
+
+ponzu gen c netsites title:string author:@author,name updated:int photos:"[]string"
+
+ponzu gen c sites name:string url:string photo:string:file affiliate:string
+
+ponzu gen c author name:string bio:string:richtext photo:"[]string":file
+
+$ ponzu generate content post title:string body:string:richtext author:string
+
+
+ponzu gen c sites name:string author:@author,name url:string logo:"[]string":file
+
+
+
+ponzu gen c song title:string artist:string 
+
+
+
+
+
