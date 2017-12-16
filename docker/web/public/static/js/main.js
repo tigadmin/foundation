@@ -36,12 +36,12 @@
                     <router-link to="/localwebsitedesign/"><v-btn flat color="teal">Explore</v-btn></router-link>
     </article>-->
       
-
+                  <article>
                   <v-card-media src="/static/img/local-business.jpg" height="200px">
                   </v-card-media>
                   <v-card-title primary-title>
                     <div>
-                      <h3 class="headline mb-0">${song.title || 'Unknown'} by ${song.artist || 'Unknown'}</h3>
+                      <h3 class="headline mb-0">Website Design</h3>
                       <div class="subheading grey--text text--darken-1">Google powered website specifically designed for local business that works across all devices and loads instantly.</div>
                     </div>
                   </v-card-title>
@@ -49,7 +49,7 @@
                     <v-btn flat color="teal">PRICE: $999</v-btn>
                     <router-link to="/localwebsitedesign/"><v-btn flat color="teal">Explore</v-btn></router-link>
                   </v-card-actions>
-               
+                  </article>
                         `;
           }).join();
         }
