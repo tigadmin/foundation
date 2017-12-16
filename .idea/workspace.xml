@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="285f0683-dfc5-41b3-9131-7d1e511c4470" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/index.html" afterPath="$PROJECT_DIR$/docker/web/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/service-worker.js" afterPath="$PROJECT_DIR$/docker/web/public/service-worker.js" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.ba4ee28e1e7934624880.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.ba4ee28e1e7934624880.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.6d71750b81b9d46a2900.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.6d71750b81b9d46a2900.js.map" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
