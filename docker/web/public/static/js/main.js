@@ -35,24 +35,7 @@
                     <v-btn flat color="teal">RATING: ${song.rating}</v-btn>
                     <router-link to="/localwebsitedesign/"><v-btn flat color="teal">Explore</v-btn></router-link>
     </article>-->
-        <section>
-      <v-layout
-        column
-        wrap
-        class="my-5"
-        align-center
-      >
-        <v-flex xs12 sm8 class="my-3">
-          <div class="text-xs-center">
-            <h2 class="display-2 text-xs-center">Performance Based Local Marketing</h2>
-          </div>
-        </v-flex>
-        <v-flex xs12>
-          <v-container grid-list-xl>
-            <v-layout row wrap align-center>
-
-              <v-flex xs12 md4>
-                <v-card>
+      
 
                   <v-card-media src="/static/img/local-business.jpg" height="200px">
                   </v-card-media>
@@ -66,13 +49,7 @@
                     <v-btn flat color="teal">PRICE: $999</v-btn>
                     <router-link to="/localwebsitedesign/"><v-btn flat color="teal">Explore</v-btn></router-link>
                   </v-card-actions>
-                </v-card>
-              </v-flex>
-            </v-layout>
-          </v-container>
-        </v-flex>
-      </v-layout>
-    </section>
+               
                         `;
           }).join();
         }
