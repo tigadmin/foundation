@@ -3,261 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="285f0683-dfc5-41b3-9131-7d1e511c4470" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/css/app.2f0cc16b71c4c65a5f382009d896b413.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/css/app.2f0cc16b71c4c65a5f382009d896b413.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/812f1d1cfd682aebf973e6226ea1a7405256991d.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ash.ae6def4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ash.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ash.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ash777.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/background-data.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/bluepay-logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ecommerce-local.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ecommerce-solutions.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ga.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ga22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/google-analytics.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/google-local-analytics-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/google-local-analytics.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/hero.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/hero.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/home.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icon-logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/android-chrome-192x192.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/android-chrome-512x512.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/android-chrome-96x96.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/apple-touch-icon-120x120.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/apple-touch-icon-152x152.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/apple-touch-icon-180x180.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/apple-touch-icon-60x60.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/apple-touch-icon-76x76.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/favicon-16x16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/favicon-32x32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-call.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-detailed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-fined.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-hours.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-media.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-mobile.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-prising.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/icon-trust.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/msapplication-icon-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/mstile-150x150.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/icons/safari-pinned-tab.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/812f1d1cfd682aebf973e6226ea1a7405256991d.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ash.ae6def4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ash.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ash.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ash777.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/background-data.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/bluepay-logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ecommerce-local.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ecommerce-solutions.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ga.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ga22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/google-analytics.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/google-local-analytics-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/google-local-analytics.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/hero.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/hero.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/home.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icon-logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/android-chrome-192x192.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/android-chrome-512x512.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/apple-touch-icon-120x120.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/apple-touch-icon-152x152.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/apple-touch-icon-180x180.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/apple-touch-icon-60x60.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/apple-touch-icon-76x76.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/favicon-16x16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/favicon-32x32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-call.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-detailed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-fined.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-hours.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-media.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-mobile.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-prising.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/icon-trust.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/msapplication-icon-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/mstile-150x150.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/icons/safari-pinned-tab.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-9.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-bg-webdesign.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-ppc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-remarketing.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-seo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-website-design.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business-website.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-business.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-credit-card-processing.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-marketing-consulting.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-marketing-ppc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-seo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-social-marketing-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-social-marketing-11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-social-marketing-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-social-marketing-22.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-social-marketing-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-social-marketing-33.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-social.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-website-design-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-website-design-business2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-website-design.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-website-design2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-website-design22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/local-websites.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo-columbia-sc-realtor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo-dark.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo_header copy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo_header.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo_header2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo_header3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo_header4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/logo_icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/magento-ecommerce.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/magento-ppc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/magento-screenshot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/marketplace.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/material-design-local-websites-company.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/material-design-local-websites.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/me.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/ponzu commands.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/poynt-mod-small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/poynt.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/pug-lexington-sc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/pug-lexington-sc2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/pwa-local-business-website-design.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/pwa-local-business3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/pwa-website-local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/roper.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/social-media-advertising.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/space.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/space.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/space2018.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/syndication-list.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/top-local-marketing.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/user-experience-local-website-design.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/user-experience-local-website-designer.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/user-experience-local-websites.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/v.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/web-consulting-local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/web-design-local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/web-design-using-google-design-mdc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/web-design.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/img/web-marketing.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-9.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-bg-webdesign.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-ppc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-remarketing.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-seo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-website-design.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business-website.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-business.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-credit-card-processing.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-marketing-consulting.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-marketing-ppc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-seo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-social-marketing-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-social-marketing-11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-social-marketing-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-social-marketing-22.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-social-marketing-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-social-marketing-33.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-social.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-website-design-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-website-design-business2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-website-design.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-website-design2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-website-design22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/local-websites.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo-columbia-sc-realtor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo-dark.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo_header copy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo_header.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo_header2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo_header3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo_header4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/logo_icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/magento-ecommerce.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/magento-ppc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/magento-screenshot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/marketplace.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/material-design-local-websites-company.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/material-design-local-websites.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/me.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/ponzu commands.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/poynt-mod-small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/poynt.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/pug-lexington-sc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/pug-lexington-sc2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/pwa-local-business-website-design.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/pwa-local-business3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/pwa-website-local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/roper.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/social-media-advertising.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/space.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/space.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/space2018.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/syndication-list.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/top-local-marketing.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/user-experience-local-website-design.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/user-experience-local-website-designer.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/user-experience-local-websites.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/v.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/web-consulting-local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/web-design-local-business.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/web-design-using-google-design-mdc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/web-design.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/img/web-marketing.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.971935d445869a3093af.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/app.971935d445869a3093af.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.9f37dd567d7395156c94.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/manifest.9f37dd567d7395156c94.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/vendor.c44a52be73b318a05286.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/js/vendor.c44a52be73b318a05286.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docker/web/public/static/manifest.json" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -267,40 +12,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/web/public/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker/web/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="2585" lean-forward="false" selection-start-line="0" selection-start-column="2585" selection-end-line="0" selection-end-column="2585" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexno.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/web/public/indexno.html">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker/web/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docker/web/public/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-              <folding>
-                <marker date="1513403043851" expanded="true" signature="733:1447" ph="..." />
-                <marker date="1513403043851" expanded="true" signature="1484:2278" ph="..." />
-                <marker date="1513403043851" expanded="true" signature="1569:1603" ph="..." />
-                <marker date="1513403043851" expanded="true" signature="1650:1999" ph="..." />
-                <marker date="1513403043851" expanded="true" signature="1676:1965" ph="..." />
-                <marker date="1513403043851" expanded="true" signature="2034:2249" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -357,6 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,24 +98,10 @@
               <item name="foundation" type="462c0819:PsiDirectoryNode" />
               <item name="docker" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -400,6 +115,17 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/web" />
+      <recent name="$PROJECT_DIR$/docker/web/public" />
+      <recent name="$PROJECT_DIR$/docker/web/public/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/web/public" />
+      <recent name="$PROJECT_DIR$/docker/web" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -419,24 +145,24 @@
   <component name="ToolWindowManager">
     <frame x="71" y="22" width="1333" height="838" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25368503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -451,34 +177,51 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docker/web/public/indexno.html">
+    <entry file="file://$PROJECT_DIR$/docker/web/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/web/public/index.html">
+    <entry file="file://$PROJECT_DIR$/docker/web/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2585" lean-forward="false" selection-start-line="0" selection-start-column="2585" selection-end-line="0" selection-end-column="2585" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker/web/public/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
+        <state relative-caret-position="859">
           <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-          <folding>
-            <marker date="1513403043851" expanded="true" signature="733:1447" ph="..." />
-            <marker date="1513403043851" expanded="true" signature="1484:2278" ph="..." />
-            <marker date="1513403043851" expanded="true" signature="1569:1603" ph="..." />
-            <marker date="1513403043851" expanded="true" signature="1650:1999" ph="..." />
-            <marker date="1513403043851" expanded="true" signature="1676:1965" ph="..." />
-            <marker date="1513403043851" expanded="true" signature="2034:2249" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/web/public/indexno.html" />
+    <entry file="file://$PROJECT_DIR$/docker/web/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2585" lean-forward="false" selection-start-line="0" selection-start-column="2585" selection-end-line="0" selection-end-column="2585" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/web/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/web/index.html" />
+    <entry file="file://$PROJECT_DIR$/docker/web/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
